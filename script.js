@@ -1,4 +1,3 @@
-// create your own API access key and replace the key added below.
 
 const accessKey = "rq9OoN6Qq_Gv1n_Cdk_S0fFx2Km6rHHbbfQyhKxGOgo";
 
